@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">DrawPixel</string>
-    <string name="bg_title">背景色</string>
+    <string name="now_color">当前颜色</string>
     <string name="draw_pen">画笔</string>
 </resources>
